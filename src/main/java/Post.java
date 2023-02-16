@@ -5,7 +5,7 @@ public class Post {
     public String phone;
     public String surname;
     public boolean subscription;
-    public static FormDate birthday;
+    public FormDate birthday;
 
     public FormDate getBirthday() {
         return birthday;
